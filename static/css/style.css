@@ -21,7 +21,7 @@
 
 body {
     font-family: serif;
-    font-size: 110%;
+    font-size: 100%;
     text-align: justify;
     color: var(--fg);
     background-color: var(--bg);
