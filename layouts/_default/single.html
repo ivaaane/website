@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+
+<p><a href="/">↩</a></p>
+<h1>{{ .Params.Title }}</h1>
+<p class="date">{{ .Date.Format "2/1/2006" }}</p>
+{{ .Content }}
+<p><a href="/">↩</a></p>
+
+{{ partial "footer.html" . }}

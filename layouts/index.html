@@ -1,0 +1,28 @@
+{{ partial "header.html" . }}
+
+<h1 class="heading">
+    <img src="media/avatar.png" class="avatar">
+    ivaaan
+    <div class="links">
+        <a href="https://github.com/ivaaane">
+            <img src="media/github.svg" class="icon" alt="Github"></a>
+        <a href="index.xml">
+            <img src="media/rss.svg" class="icon" alt="RSS"></a>
+    </div>
+</h1>
+
+{{ .Content }}
+
+<h2>Cosas que he escrito</h2>
+
+{{ range .Pages }}
+<ol>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>&ensp;
+    {{ range .Params.tags }}
+        <i>#{{ . }} </i>
+    {{ end }}&ensp;
+    <i>{{ .Date.Format "2/1/2006" }}</i>
+</ol>
+{{ end }}
+
+{{ partial "footer.html" . }}

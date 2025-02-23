@@ -1,0 +1,133 @@
+:root {
+    --bg: #1d2021;
+    --fg: #ebdbb2;
+    --black: #665c54;
+    --brblack: #7c6f64;
+    --red: #cc241d;
+    --brred: #b8bb26;
+    --green: #98971a;
+    --brgreen: #b8bb26;
+    --yellow: #d79921;
+    --bryellow: #fabd2f;
+    --blue: #458588;
+    --brblue: #83a598;
+    --purple: #b16286;
+    --brpurple: #d3869b;
+    --aqua: #689d6a;
+    --braqua: #8ec07c;
+    --white: #a89984;
+    --brwhite: #bdae93;
+}
+
+body {
+    font-family: serif;
+    font-size: 110%;
+    text-align: justify;
+    color: var(--fg);
+    background-color: var(--bg);
+    line-height: 1.5;
+    padding: 1rem;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+    max-width: 45rem;
+}
+
+a {
+    color: var(--brblue);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1, h2 {
+    color: var(--yellow);
+}
+
+h3, h4, h5, h6 {
+    color: var(--brred);
+}
+
+i, em {
+    color: var(--white);
+}
+
+ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ /* TABLES */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 16px;
+}
+
+table th, table td {
+    border: 1px solid var(--white);
+    padding: 6px 13px;
+}
+
+table th {
+    background-color: #282828;
+    text-align: left;
+    font-weight: 600;
+}
+
+/* DATE */
+.date {
+    font-style: italic;
+    color: var(--white);
+    margin-top: -20px;
+    margin-bottom: 30px;
+    font-size: 90%;
+}
+
+/* HEADING */
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.avatar {
+    margin-right: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.links {
+    display: flex;
+}
+
+.icon {
+    margin-left: 20px;
+    width: 30px;
+    height: 30px;
+}
+
+/* FOOTER */
+.footer {
+    color: var(--black);
+    text-align: center;
+    font-size: 80%;
+    padding-top: 2rem;
+}
+
+/* toki pona */
+@font-face {
+    font-family: 'nasin nanpa';
+    src: url('../fonts/nasin-nanpa.otf')
+}
+
+.sitelen, .sitelen-inline {
+    font-family: 'nasin nanpa';
+}
+
+.sitelen {
+    font-size: 140%;
+}

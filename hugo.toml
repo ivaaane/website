@@ -1,0 +1,14 @@
+baseURL = 'http://ivaaan.neocities.org'
+title = 'ivaaan'
+languageCode = 'es-es'
+defaultContentLanguage = 'es'
+pluralizelisttitles = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
