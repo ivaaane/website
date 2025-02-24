@@ -20,8 +20,8 @@
     <a href="{{ .Permalink }}">{{ .Title }}</a>&ensp;
     {{ range .Params.tags }}
         <i>#{{ . }} </i>
-    {{ end }}&ensp;
-    <i>{{ .Date.Format "2/1/2006" }}</i>
+        {{ end }}
+    <br /><i>{{ .Date.Format "2/1/2006" }}</i>
 </ol>
 {{ end }}
 

@@ -21,7 +21,6 @@
 
 body {
     font-family: serif;
-    font-size: 100%;
     text-align: justify;
     color: var(--fg);
     background-color: var(--bg);
@@ -56,6 +55,7 @@ i, em {
 ol {
     list-style-type: none;
     padding-left: 0;
+    text-align: left;
 }
 
  /* TABLES */
