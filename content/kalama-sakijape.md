@@ -94,5 +94,5 @@ kalama [suwi ale kalama ijo jan pona e]
 
 ---
 
-mi toki+pona e [kalama musi ni1]() pi(toki [suwi uta ma insa])
+mi toki+pona e [kalama musi ni1](https://www.youtube.com/watch?v=uMszu_VgMfY) pi(toki [suwi uta ma insa])
 {.sitelen}

@@ -39,5 +39,5 @@ ona li moku e telo tan kama pi(jan sewi)
 
 ---
 
-mi toki+pona e [kalama musi ni1]() pi(toki [esun pan: jan.])  
+mi toki+pona e [kalama musi ni1](https://www.youtube.com/watch?v=3oxdXV7eA3Q) pi(toki [esun pan: jan.])  
 {.sitelen}

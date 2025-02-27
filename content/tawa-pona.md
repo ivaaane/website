@@ -59,5 +59,5 @@ ona li moli tan ken ale
 
 ---
 
-mi toki+pona e [kalama musi ni1]() pi(toki [ijo tan anpa li ijo jan anpa])
+mi toki+pona e [kalama musi ni1](https://www.youtube.com/watch?v=EvPHhu82akM) pi(toki [ijo tan anpa li ijo jan anpa])
 {.sitelen}
