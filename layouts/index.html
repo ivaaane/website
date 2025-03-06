@@ -11,13 +11,14 @@
     </div>
 </h1>
 
-{{ .Content }}
+<p>Holaaa~, soy Iván, una persona &mdash;tal vez&mdash; que forma parte de la enorme ilusión del cosmos. Actualmente estudio informática en Cataluña.</p>
+<p>Me gusta la programación, la geopolítica, la lingüística, la narrativa, el diseño de juegos y la pasta. Mi idioma favorito es el toki pona, seguido por el esperanto y el finés &mdash;aunque este último me está costando. A propósito, has perdido <a href="https://es.wikipedia.org/wiki/El_Juego_(juego_mental)">El Juego</a>.</p>
 
 <h2>Cosas que he escrito</h2>
 
 {{ range .Pages }}
 <ol>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>&ensp;
+    <a href="{{ .Permalink }}" class="{{ if in .Params.tags "toki pona" }}sitelen{{ end }}">{{ .Title }}</a>&ensp;
     {{ range .Params.tags }}
         <i>#{{ . }} </i>
         {{ end }}

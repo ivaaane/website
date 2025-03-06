@@ -12,3 +12,5 @@ pluralizelisttitles = false
       [markup.goldmark.parser.attribute]
         block = true
         title = true
+    [markup.sass]
+        outputStyle = "compressed"

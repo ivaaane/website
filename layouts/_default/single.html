@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 <p><a href="/">↩</a></p>
-<h1>{{ .Params.Title }}</h1>
+<h1 class="{{ if in .Params.tags "toki pona" }}sitelen{{ end }}">{{ .Params.Title }}</h1>
 <p class="date">{{ .Date.Format "2/1/2006" }}</p>
 {{ .Content }}
 <p><a href="/">↩</a></p>

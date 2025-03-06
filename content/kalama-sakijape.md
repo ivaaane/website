@@ -1,7 +1,8 @@
 ---
-title: kalama Sakijape
+title: kalama [suwi ale kalama ijo jan ale pona e]
 date: 2025-02-15
 tags: ["toki pona"]
+tabname: kalama Sakijape
 ---
 
 li pilin taso en ma [kijetesantakalu ale linja ijo jan ale]  
