@@ -11,18 +11,28 @@
     </div>
 </h1>
 
-<p>Holaaa~, soy Iván, una persona &mdash;tal vez&mdash; que forma parte de la enorme ilusión del cosmos. Actualmente estudio informática en Cataluña.</p>
-<p>Me gusta la programación, la geopolítica, la lingüística, la narrativa, el diseño de juegos y la pasta. Mi idioma favorito es el toki pona, seguido por el esperanto y el finés &mdash;aunque este último me está costando. A propósito, has perdido <a href="https://es.wikipedia.org/wiki/El_Juego_(juego_mental)">El Juego</a>.</p>
+<p>
+    Holaaa~, soy Iván, una persona —tal vez— que forma parte de la enorme ilusión del cosmos. Actualmente estudio informática en Cataluña.
+</p>
+<p>
+    Me gusta la programación, la geopolítica, la lingüística, la narrativa, el diseño de juegos y la pasta. Mi idioma favorito es el toki pona —del que hablo mucho—, seguido por el esperanto. A propósito, has perdido <a href="https://es.wikipedia.org/wiki/El_Juego_(juego_mental)">El Juego</a>.
+</p>
 
 <h2>Cosas que he escrito</h2>
 
 {{ range .Pages }}
 <ol>
-    <a href="{{ .Permalink }}" class="{{ if in .Params.tags "toki pona" }}sitelen{{ end }}">{{ .Title }}</a>&ensp;
-    {{ range .Params.tags }}
-        <i>#{{ . }} </i>
-        {{ end }}
-    <br /><i>{{ .Date.Format "2/1/2006" }}</i>
+    <div class="posts">
+        <a href="{{ .Permalink }}"
+            class="post-name {{ if in .Params.tags "toki pona" }}sitelen{{ end }}">
+        {{ .Title }}</a>&ensp;
+        <div class="post-tag">
+        {{ range .Params.tags }}
+            <i>#{{ . }} </i>
+            {{ end }}
+        </div>
+    </div>
+    <i>{{ .Date.Format "2/1/2006" }}</i>
 </ol>
 {{ end }}
 
