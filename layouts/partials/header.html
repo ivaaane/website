@@ -3,19 +3,20 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>
-{{ if not .IsHome }}
-    {{ if .Params.tabname }}
-        {{ .Params.tabname }} ~ 
-    {{ else }}
-        {{ .Title }} ~ 
-    {{ end }}
-{{ end }}
-{{ .Site.Title }}
-</title>
+    <link rel="icon" href="/favicon.ico">
     <link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
+    <title>
+    {{ if not .IsHome }}
+        {{ if .Params.tabname }}
+            {{ .Params.tabname }} ~ 
+        {{ else }}
+            {{ .Title }} ~ 
+        {{ end }}
+    {{ end }}
+    {{ .Site.Title }}
+    </title>
     {{ with .OutputFormats.Get "rss" -}}
-            {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
 </head>
 <body>

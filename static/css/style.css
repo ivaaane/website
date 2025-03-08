@@ -17,6 +17,8 @@
     --braqua: #8ec07c;
     --white: #a89984;
     --brwhite: #bdae93;
+    --orange: #d65d0e;
+    --brorange: #fe8019;
 }
 
 body {
@@ -51,6 +53,10 @@ h3, h4, h5, h6 {
 
 i, em {
     color: var(--white);
+}
+
+hr {
+    border: 1px solid var(--black);
 }
 
 ol {
@@ -106,6 +112,10 @@ table {
             height: 30px;
         }
     }
+
+    span {
+        letter-spacing: -0.5rem;
+    }
 }
 
 .posts {
@@ -138,6 +148,7 @@ table {
 .sitelen {
     font-family: 'nasin nanpa';
     font-size: 140%;
+    white-space: nowrap;
 }
 
 h1.sitelen {

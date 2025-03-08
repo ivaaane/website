@@ -78,7 +78,7 @@ Se mantienen las construcciones con _seme_, que se ha de adaptar a la categoría
 ## Notas adicionales
 
 * Las partículas _a_, _anu_, _la_ y _n_ mantienen su uso original sin alteraciones.
-* Los predicados se mantienen como palabras contenedoras (ejemplo: _tano_ para "motivo", _tawi_ para "moverse", _kepeka_ para "utilizable"...).
+* Las preposiciones se mantienen como palabras contenedoras (ejemplo: _tano_ para "motivo", _tawi_ para "moverse", _kepeka_ para "utilizable"...).
 * Para marcar posesión, se siguen utilizando adjetivos ("tomo jana", "la casa de la persona").
 * Los nombres propios, ya que siempre cumplen la función de adjetivo, no modifican su terminación; pero sí la declinación, por lo que es recomendable que no terminen en _-n_.
 * Desaparece la prohibición de las sílabas _wu_, _wo_, _ji_ y _ti_ para formar palabras, pero no en los nombres propios.
