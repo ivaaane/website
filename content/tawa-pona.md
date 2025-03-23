@@ -1,7 +1,8 @@
 ---
 title: tawa pona
 date: 2025-02-14
-tags: ["toki pona"]
+tags: ["toki pona", "canción"]
+sitelen: true
 ---
 
 suno ni la  

@@ -1,8 +1,9 @@
 ---
 title: kalama [suwi ale kalama ijo jan ale pona e]
 date: 2025-02-15
-tags: ["toki pona"]
+tags: ["toki pona", "canción"]
 tabname: kalama Sakijape
+sitelen: true
 ---
 
 li pilin taso en ma [kijetesantakalu ale linja ijo jan ale]  

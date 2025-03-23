@@ -1,8 +1,9 @@
 ---
-title: kalama pi kulupu [e laso olin pan akesi]
+title: kalama pi(kulupu [e laso olin pan akesi])
 date: 2025-03-22
-tags: ["toki pona"]
+tags: ["toki pona", "canción"]
 tabname: kalama pi kulupu Elopa
+sitelen: true
 ---
 
 jan sama o kute e kalama tan pona  

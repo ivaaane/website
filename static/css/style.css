@@ -94,7 +94,7 @@ table {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 
     .avatar {
         margin-right: 20px;
@@ -143,12 +143,12 @@ table {
 
 .sitelen {
     font-family: 'nasin nanpa';
-    font-size: 140%;
+    font-size: 125%;
     white-space: nowrap;
 }
 
 h1.sitelen {
-    font-size: 200%;
+    font-size: 180%;
 }
 
 pre {

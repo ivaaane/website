@@ -1,7 +1,8 @@
 ---
 title: o lukin e kala
 date: 2025-02-16
-tags: ["toki pona"]
+tags: ["toki pona", "canción"]
+sitelen: true
 ---
 
 o lukin e kala  
