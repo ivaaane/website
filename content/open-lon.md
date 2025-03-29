@@ -1,10 +1,10 @@
 ---
-title: "open lon"
-date: 2025-03-22
+title: "open ale"
+date: 2025-03-29
 tags: ["toki pona", "ficción"]
 sitelen: true
 tabname: "open lon pi sewi suno"
-draft: true
+draft: false
 ---
 
 open la ala li lon  
@@ -40,7 +40,7 @@ kasi li lawa e ale la suno li lon e soweli
 soweli li wile e moku la ona li moku e kasi  
 ale li lon  
 ale li tawa  
-ale li pona tawa suno  
+ale li pona
 {.sitelen}
 
 pali li pini la wawa suno li weka  
@@ -49,4 +49,58 @@ taso pimeja li moli ala
 weka la pimeja li pilin ike  
 ona li wile pini e lawa suno  
 pimeja li lape ala
+{.sitelen}
+
+sin la pimeja li lawa e ale  
+ona li ike e pali suno  
+soweli li moli e soweli  
+kule kasi li weka  
+telo li wawa li pakala e ma  
+ike a  
+{.sitelen}
+
+pali suno la soweli li mute  
+akesi en kala en pipi en kijetesantakalu li lon  
+sama la jan li lon  
+jan li pilin monsuta  
+ona mute li moli tan pimeja  
+suno li pana e pona mute lon tenpo pini  
+jan li wile e kama sin suno  
+zz li open toki tawa suno lon insa ona  
+zz li wile li wile li wile a  
+zz li wile sama suno lon open ale  
+suno li kute e wile  
+zz li pini e lape
+{.sitelen}
+
+suno li utala e pimeja  
+utala li awen lon tenpo mute a  
+mute la ma li kama ante  
+pona en ike li kama  
+taso pini la suno li anpa e pimeja  
+{.sitelen}
+
+taso anpa ni li pini ala e utala  
+wawa suno li weka  
+suno li wile lape  
+suno li lape la pimeja li kama sin  
+utala li ken ala pini  
+ni la suno li pana e mun mute tawa sewi  
+pimeja la mun li lukin li toki e ike tawa suno  
+suno li lon e mun suli  
+zz li pana e suno ona pi mute lili tawa ona  
+mun suli li lawa e mun lili  
+{.sitelen}
+
+pini la suno li toki tawa jan  
+ona li pilin monsuta ala la suno li pana e seli  
+seli li suno lili  
+jan li ken lawa e seli  
+jan la suno li pona e ale  
+ni la ona li pana e nimi sewi tawa ona  
+zzzzzz li toki e wile lon insa sama open  
+sewi li kute e wile ale  
+{.sitelen}
+
+*pini*
 {.sitelen}
