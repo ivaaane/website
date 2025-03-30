@@ -143,12 +143,7 @@ table {
 
 .sitelen {
     font-family: 'nasin nanpa';
-    font-size: 125%;
     white-space: nowrap;
-}
-
-h1.sitelen {
-    font-size: 180%;
 }
 
 pre {
