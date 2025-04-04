@@ -8,7 +8,7 @@ El **toko pona** (o _pona toko_) es una variación del toki pona que sustituye l
 
 Todos los aspectos del idioma son idénticos al toki pona, excepto los apartados cubiertos en este artículo. La fonología se mantiene igual, por lo que se sigue pronunciando el acento en la primera sílaba.
 
-**Nota:** este projecto ha sido creado por motivos puramente lúdicos. No se ha de tomar seriamente, y no se espera que se adopte conversacionalmente. También, ni mucho menos domino la lingüística, se que muchos de los términos posiblemente sean incorrectos.
+> **Nota:** este projecto ha sido creado por motivos puramente lúdicos. No se ha de tomar seriamente, y no se espera que se adopte conversacionalmente. También, ni mucho menos domino la lingüística, se que muchos de los términos posiblemente sean incorrectos.
 
 ## Terminaciones
 
@@ -85,7 +85,7 @@ Se mantienen las construcciones con _seme_, que se ha de adaptar a la categoría
 
 ## Texto de ejemplo
 
-***toko pona:*** mi opi sewalon nimolon. si pi a! toko pona semi? pina tenpo la mi wili soni alelan konon lilake nimoke. mi lukini misan konon. mi kami soni mutan tokon. mi musi. mi pali lilan tokan nasinon. oni poni misan insan tokon. mi pani misa lilan tokon alelawa janowa lipalon ilolon en pinalon tenpolon. lila kulupo kami. oni olini tokon ponan. pi la mi wili pinan selon tokopi ponapi. nina nasino la mi tokoke ponake. --jano Sonja
+***toko pona:*** mi opi sewalon nimolon. si pi a! toko pona semota? pina tenpo la mi wili soni alelan konon lilake nimoke. mi lukini misan konon. mi kami soni mutan tokon. mi musi. mi pali lilan tokan nasinon. oni poni misan insan tokon. mi pani misa lilan tokon alelawa janowa lipalon ilolon en pinalon tenpolon. lila kulupo kami. oni olini tokon ponan. pi la mi wili pinan selon tokopi ponapi. nina nasino la mi tokoke ponake. --jano Sonja
 
 ***toki pona:*** mi open lon nimi sewi. sina pu a! toki pona li tan seme? tenpo pini la mi wile sona e kon ale kepeken nimi lili. mi lukin e kon mi. mi kama sona e toki mute. mi musi. mi pali e nasin toki lili. ona li pona e toki insa mi. mi pana e toki lili mi tawa jan ale lon ilo lipu lon tenpo pini. kulupu lili li kama. ona li olin e toki pona. pu la mi wile pana e selo pini pi toki pona. nasin ni la mi kepeken toki pona. --jan Sonja
 

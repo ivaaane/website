@@ -1,6 +1,7 @@
 :root {
-    --bg: #1d2021;
-    --fg: #ebdbb2;
+    --bg: #000000;
+    --brbg: #1d2021;
+    --fg: #ffffff;
     --black: #665c54;
     --brblack: #7c6f64;
     --red: #cc241d;
@@ -22,10 +23,10 @@
 }
 
 body {
-    font-family: serif;
-    text-align: justify;
     color: var(--fg);
     background-color: var(--bg);
+    font-family: serif;
+    text-align: justify;
     line-height: 1.5;
     padding: 1rem;
     margin: 0 auto;
@@ -33,7 +34,7 @@ body {
 }
 
 a {
-    color: var(--brblue);
+    color: var(--blue);
     text-decoration: none;
 
     &:hover {
@@ -43,7 +44,10 @@ a {
 
 h1, h2 {
     color: var(--yellow);
-    text-align: left;
+}
+
+h1 {
+    text-align: center;
 }
 
 h3, h4, h5, h6 {
@@ -56,8 +60,7 @@ i, em {
 }
 
 hr {
-    border: 1px solid var(--black);
-}
+    border: 1px solid var(--black); }
 
 ol {
     list-style-type: none;
@@ -76,18 +79,34 @@ table {
     }
 
     th {
-        background-color: #282828;
+        background-color: var(--brbg);
         text-align: left;
         font-weight: 600;
     }
 }
 
+blockquote {
+    border-left: 5px solid var(--black);
+    margin: 0;
+    padding: 0 10px;
+}
+
+pre {
+    font-size: 110%;
+    font-family: monospace;
+    overflow: auto;
+    padding: 1em 1em;
+    max-width: 100%;
+    page-break-inside: avoid;
+    display: block;
+}
+
 .date {
-    font-style: italic;
-    color: var(--white);
+    font-style: italic; color: var(--white);
     margin-top: -20px;
     margin-bottom: 30px;
     font-size: 90%;
+    text-align: center;
 }
 
 .heading {
@@ -144,14 +163,4 @@ table {
 .sitelen {
     font-family: 'nasin nanpa';
     white-space: nowrap;
-}
-
-pre {
-    font-size: 110%;
-    font-family: monospace;
-    overflow: auto;
-    padding: 1em 1em;
-    max-width: 100%;
-    page-break-inside: avoid;
-    display: block;
 }

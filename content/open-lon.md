@@ -3,7 +3,7 @@ title: "open ale"
 date: 2025-03-29
 tags: ["toki pona", "ficción"]
 sitelen: true
-tabname: "open lon pi sewi suno"
+tabname: "open lon"
 draft: false
 ---
 
@@ -34,7 +34,7 @@ suno li open e pali
 suno li tawa e kiwen e ko  
 zz li lon e nena e lupa e sijelo ante  
 zzzzzz e kule ale  
-zzzzzz e kasi lon sewi ma  
+zzzzzz e kasi lon selo ma  
 zzzzzz e soko lon anpa ma  
 kasi li lawa e ale la suno li lon e soweli  
 soweli li wile e moku la ona li moku e kasi  
@@ -85,7 +85,7 @@ wawa suno li weka
 suno li wile lape  
 suno li lape la pimeja li kama sin  
 utala li ken ala pini  
-ni la suno li pana e mun mute tawa sewi  
+ni la suno li pana e mun mute tawa sewi1  
 pimeja la mun li lukin li toki e ike tawa suno  
 suno li lon e mun suli  
 zz li pana e suno ona pi mute lili tawa ona  
