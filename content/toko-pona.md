@@ -1,7 +1,8 @@
 ---
 title: Toki pona con declinaciones
 date: 2025-02-19
-tags: ["conlang", "artículo"]
+tags: ["conlang"]
+draft: true
 ---
 
 El **toko pona** (o _pona toko_) es una variación del toki pona que sustituye las partículas gramaticales del idioma por declinaciones. Así pues, la función gramatical de las palabras se marca con la terminación de estas, en vez de una palabra independiente sin significado semántico. Se sustituyen también las preposiciones, y en su lugar se introducen siete nuevos casos gramaticales.

@@ -2,7 +2,7 @@
 
 <h1 class="heading">
     <img src="media/avatar.png" class="avatar">
-    ivaaan
+    soko [soko ilo jelo esun nasa ilo]&nbsp;
     <div class="links">
         <a href="https://github.com/ivaaane">
             <img src="media/github.svg" class="icon" alt="Github"></a>
@@ -11,24 +11,19 @@
     </div>
 </h1>
 
-<p>
-    Holaaa~, soy Iván, una persona —tal vez— que forma parte de la enorme ilusión del cosmos.
-</p>
-<p>
-    Me gustan las humanidades y la informática a ratos; especialmente disfruto de la lingüística, la programación, la historia y la geopolítica. Ha veces escribo historias o traduzco obras al toki pona. También estoy aprendiendo esperanto. A propósito, has perdido <a href="https://es.wikipedia.org/wiki/El_Juego_(juego_mental)">El Juego</a>.
-</p>
+{{ .Content }}
 
-<h2>Cosas que he escrito</h2>
+<h2>pali mi</h2>
 
 {{ range .Pages }}
 <ol>
     <div class="posts">
         <a href="{{ .Permalink }}"
-            class="post-name {{ if in .Params.sitelen true }}sitelen{{ end }}">
+            class="post-name">
         {{ .Title }}</a>&ensp;
         <div class="post-tag">
         {{ range .Params.tags }}
-            <i>#{{ . }} </i>
+            <i>{{ . }}&nbsp;</i>
             {{ end }}
         </div>
     </div>

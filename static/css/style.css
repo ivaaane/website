@@ -1,8 +1,6 @@
 :root {
     --bg: #000000;
-    --brbg: #1d2021;
-    --fg: #ffffff;
-    --black: #665c54;
+    --brbg: #1d2021; --fg: #ffffff; --black: #665c54;
     --brblack: #7c6f64;
     --red: #cc241d;
     --brred: #b8bb26;
@@ -22,10 +20,16 @@
     --brorange: #fe8019;
 }
 
+@font-face {
+    font-family: 'nasin nanpa';
+    src: url('../fonts/nasin-nanpa.otf');
+}
+
 body {
+    font-family: 'nasin nanpa';
+    white-space: nowrap;
     color: var(--fg);
     background-color: var(--bg);
-    font-family: serif;
     text-align: justify;
     line-height: 1.5;
     padding: 1rem;
@@ -153,14 +157,4 @@ pre {
     text-align: center;
     font-size: 80%;
     padding-top: 1rem;
-}
-
-@font-face {
-    font-family: 'nasin nanpa';
-    src: url('../fonts/nasin-nanpa.otf');
-}
-
-.sitelen {
-    font-family: 'nasin nanpa';
-    white-space: nowrap;
 }
