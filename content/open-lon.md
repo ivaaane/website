@@ -1,7 +1,7 @@
 ---
 title: "open ale"
 date: 2025-03-29
-tags: ["toki"]
+tags: ["lipu musi lili"]
 tabname: "open lon"
 ---
 

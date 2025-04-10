@@ -1,4 +1,4 @@
-toki  
+toki a  
 mi soko [soko ilo jelo esun nasa ilo]  
 mi tan ma [kili awen telo awen len awen]  
 mi pali e musi e ilo  
@@ -9,4 +9,3 @@ toki+pona la suli la mi pona e kalama musi lon tenpo lape
 zzzz lili la mi pali e musi sin kin  
 pan linja li pona wawa a  
 mu  
-  
