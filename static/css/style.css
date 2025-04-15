@@ -95,7 +95,7 @@ pre {
 }
 
 .date {
-    font-style: italic; color: var(--white);
+    color: var(--white);
     margin-top: -20px;
     margin-bottom: 30px;
     font-size: 90%;
@@ -107,13 +107,6 @@ pre {
     align-items: center;
     justify-content: space-between;
     margin-bottom: 25px;
-
-    .avatar {
-        margin-right: 20px;
-        width: 60px;
-        height: 60px;
-        border-radius: 50%;
-    }
 
     .links {
         display: flex;

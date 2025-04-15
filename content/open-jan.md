@@ -1,7 +1,7 @@
 ---
 title: open jan
 date: 2025-04-10
-tags: ["lipu musi lili"]
+tags: ["lipu te ma suno to"]
 ---
 
 open la jan li sama soweli li sama akesi  
@@ -19,7 +19,7 @@ kulupu li lili
 moli li suli  
 nanpa wan la jan li pilin monsuta  
 sewi li anpa e pimeja la pona li kama sin  
-taso ike ale li weka ala  
+taso ike li weka ale ala  
 
 sewi la jan li kama sona e wile  
 ona li wile e namako  

@@ -1,7 +1,7 @@
 ---
 title: "open ale"
 date: 2025-03-29
-tags: ["lipu musi lili"]
+tags: ["lipu te ma suno to"]
 tabname: "open lon"
 ---
 
