@@ -79,7 +79,7 @@ table {
 }
 
 blockquote {
-    border-left: 5px solid var(--gray);
+    border-left: 2px solid var(--white);
     margin: 0;
     padding: 0 10px;
 }
@@ -103,6 +103,7 @@ pre {
 }
 
 .heading {
+    font-size: 150%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -113,8 +114,8 @@ pre {
 
         .icon {
             margin-left: 20px;
-            width: 30px;
-            height: 30px;
+            width: 25px;
+            height: auto;
         }
     }
 }

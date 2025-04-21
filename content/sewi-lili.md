@@ -44,4 +44,4 @@ tenpo kama la akesi li tawa sama waso
 
 ---
 
-ni li open toki pi ([lipu te sewi lili to](https://www.terrypratchettbooks.com/books/small-gods/))
+mi toki+pona e open toki pi ([lipu te sewi lili to](https://www.terrypratchettbooks.com/books/small-gods/))

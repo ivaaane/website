@@ -40,15 +40,16 @@ nasin ni la jan [ante] li pali e kulupu suli nanpa wan
 zzzzzzzzzzzz li lawa e ma mute mute a  
 sona li wawa  
 
-jan mute li pilin monsuta tan jan [ante] li alasa pona tawa ona  
+jan mute li pilin monsuta tan jan [ante]  
+zzzz li alasa pona tawa ona  
 jan mute kin li wile moli e ona  
-suli la jan [seme ilo ma alasa] en jan [tomo olin soweli olin] li wile jo e wawa pi (jan [ante])  
+jan [seme ilo ma alasa] en jan [tomo olin soweli olin] li wile wawa sama jan [ante]
 ona tu li kulupu e ma mute  
-utala ni li suli a  
+utala suli li open a  
 
 jan [tomo] li kama e jan wawa mute lon poka ona  
 jan wan lon ni li jan [nasa ale loje ale]  
-sama jan [ante] la ona li sona utala kepeken sona  
+ona li sona utala kepeken sona kin  
 jan [nasa] li lawa e kulupu utala lili  
 zzzzzz li pakala mute e kulupu [ante]  
 taso suno wan la kulupu [ante] li anpa e kulupu [nasa]  
@@ -56,7 +57,9 @@ ona li awen e jan [nasa] lon poki lon anpa ma
 
 taso jan [ante] li sona e suli pi (jan [nasa])  
 zzzzzzzz li wile toki tawa ona  
-ona tu li toki e utala e lawa e wile suli  
+ona tu li toki e utala  
+zzzzzzzz e lawa  
+zzzzzzzz e wile suli  
 jan [ante] li monsuta ala e jan [nasa]  
 mute la ona tu li sama  
 pini toki la jan [ante] li toki e ni3  
@@ -66,12 +69,14 @@ zz pini ale la mi tu li toki lon tenpo sin to
 jan [nasa] li sona ala e tan pi (toki ni)  
 
 jan [nasa] li awen lon poki lon tenpo mute  
-taso pini la ona li weka li tawa ma [tomo]  
+taso pini la ona li weka  
+zzzzzzzz li tawa ma [tomo]  
 ike la jan [tomo] li moli  
 jan [seme] li toki tawa jan [nasa]  
-wile ona la jan [nasa] o lawa e ma [tomo]  
+jan [nasa] o lawa e ma [tomo]  
 jan [seme] li wile lon e kulupu sin  
-kulupu sin li wan e ma mute o moli e jan [ante]  
+kulupu sin li wan e ma mute  
+zzzz o moli e jan [ante]  
 jan [nasa] taso li ken e ni  
 
 jan [nasa] en jan [seme] li lawa e kulupu utala suli a  
@@ -89,8 +94,10 @@ te mi tu li wan la mi ken lawa e ale
 zz jan ala li ken pini e wawa ni to  
 
 ma [nasa] en ma [ante] li wan lon kulupu sama  
-jan mute li pilin ike tan ni li utala e kulupu sin  
-jan mute li pilin pona tan wawa li utala e jan pi (pilin ike)  
+jan mute li pilin ike tan ni  
+zzzz li utala e kulupu sin  
+jan mute li pilin pona tan wawa  
+zzzz li utala e jan pi (pilin ike)  
 jan [seme] li lon kulupu sin  
 taso ona li awen pilin ike tan jan [ante]  
 jan [nasa] li alasa weka e utala ale lon insa kulupu  
