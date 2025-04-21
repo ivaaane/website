@@ -52,7 +52,8 @@ i, em {
 }
 
 hr {
-    border: 1px solid var(--gray); }
+    border: 1px dotted var(--gray);
+}
 
 ol {
     list-style-type: none;
