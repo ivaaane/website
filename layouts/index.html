@@ -11,8 +11,9 @@
 
 {{ .Content }}
 
-{{ range .Pages }}
-{{ if not .Params.hide }}
+<hr>
+
+{{ range (where .Site.RegularPages "Type" "posts" ) }}
 <ol>
     <div class="posts">
         <a href="{{ .Permalink }}"
@@ -26,7 +27,6 @@
     </div>
     <i>{{ .Date.Format "2/1/2006" }}</i>
 </ol>
-{{ end }}
 {{ end }}
 
 {{ partial "footer.html" . }}

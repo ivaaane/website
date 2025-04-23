@@ -2,7 +2,7 @@
 title: jan [kasi ale mama e loje ale]
 date: 2025-03-29
 tags: ["kalama musi pi (toki ante)"]
-tabname: jan Kamela
+slug: jan Kamela
 ---
 
 jan ike lon linja telo  

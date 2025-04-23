@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
     <title>
     {{ if not .IsHome }}
-        {{ if .Params.tabname }}
-            {{ .Params.tabname }} ~ 
+        {{ if .Params.slug }}
+            {{ .Params.slug }} ~ 
         {{ else }}
             {{ .Title }} ~ 
         {{ end }}

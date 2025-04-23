@@ -2,7 +2,7 @@
 title: kalama [suwi ale kalama ijo jan ale pona e]
 date: 2025-02-15
 tags: ["kalama musi pi (toki ante)"]
-tabname: kalama Sakijape
+slug: kalama Sakijape
 ---
 
 li pilin taso en ma [kijetesantakalu ale linja ijo jan ale]  

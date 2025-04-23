@@ -4,6 +4,9 @@ languageCode = 'es-es'
 defaultContentLanguage = 'es'
 pluralizelisttitles = false
 
+[permalinks]
+    posts = "/:slug/"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -12,5 +15,3 @@ pluralizelisttitles = false
       [markup.goldmark.parser.attribute]
         block = true
         title = true
-    [markup.sass]
-        outputStyle = "compressed"

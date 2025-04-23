@@ -90,4 +90,6 @@ ni la ona li pana e nimi sewi tawa ona
 zzzzzz li toki e wile lon insa sama open  
 sewi li kute e wile ale  
 
-*pini*
+---
+
+[ni li tan lipu te ma suno to](/ma-suno)  
