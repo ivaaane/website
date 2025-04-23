@@ -8,6 +8,7 @@ slug: jan Kisote pi ma Mansa
 ## kipisi nanpa wan zz sona en pali pi (jan [ken ijo sama o tan e])
 
 lon ma lili lon ma [moli alasa ni sona alasa] la jan mani li lon  
+nimi ma la mi wile ala sona  
 ona li moku e moku pi (mani ala)  
 tomo la jan pali en jan pi (kulupu mama sama) li lon  
 sijelo ona li wawa ala li linja  
@@ -23,7 +24,7 @@ zz e
 zz te sewi la mun sewi1 sewi li awen e sina sewi li ken e ken sina pi (ken suli) to  
 
 tan ni la jan mani li kama nasa li lape ala tan lipu  
-mute la lipu li pini la ona li wile suli e ona li sitelen e lipu sin  
+tenpo mute la lipu li pini la ona li wile suli e lipu li sitelen e lipu sin  
 ona li toki utala mute e ni3 zz seme li jan utala nanpa wan  
 
 lawa ona li sona e lipu taso  
@@ -96,7 +97,7 @@ zz pilin sina li pakala tan mi to
 sama la ona li toki nasa mute sama lipu  
 ni la ona li tawa lili lon tenpo suli  
 suno li seli la lawa li ken moli  
-taso lawa ona li moli lon tenpo pini ante  
+pona la lawa ona li moli lon tenpo pini ante  
 
 suli ala li kama lon suno nanpa wan  
 ona li wile utala la ni li ike a  
