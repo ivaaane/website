@@ -114,3 +114,7 @@ jan ante li kama toki jaki tawa sewi
 ike li kama  
 moku li lili  
 taso utala li pini ala  
+
+---
+
+[ni li tan lipu te ma suno to](/ma-suno)  

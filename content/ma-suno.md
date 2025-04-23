@@ -7,28 +7,31 @@ ona li tan jan suno
 zz li toki e nasin sewi e utala pi (kulupu ni)  
 lipu suli la lipu lili mute li lon  
 lipu lili ale li wan ala  
-taso ona li kepeken mama sama  
+taso ona li tan mama sama  
 
-lipu suli li kipisi mute ni3  
-zz te lipu open to li toki e open pi (ijo suli)  
+lipu suli li kipisi ni3  
+zz toki open la  
+zzzz ona li toki e open pi (ijo suli)  
 zzzz tenpo nanpa wan la o lukin e ale ni  
-zz te lipu jan to li toki e utala suli jan e jan poka pi (jan [nasa ale loje ale])  
-zzzz ona li kepeken nimi sin mute  
-zz te lipu mun to li toki e nasin sewi e jan suno  
-zzzz ona li lili li kepeken nimi sin ala  
+zz toki jan la  
+zzzz ona li toki e utala suli jan e jan poka pi (jan [nasa ale loje ale])  
+zzzz nimi sin mute li lon  
+zz toki mun la  
+zzzz ona li toki e nasin sewi e jan suno  
+zzzz nimi sin ala li lon  
 
 ---
 
-## lipu open
+## toki open
 
 * [open lon](/open-lon)
 * [open jan](/open-jan)
 * [open utala](/open-utala)
 
-## lipu jan
+## toki jan
 
 zz *mi pali lon tenpo kama*
 
-## lipu mun
+## toki mun
 
 zz *mi pali lon tenpo kama*

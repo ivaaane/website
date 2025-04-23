@@ -162,3 +162,7 @@ jan [ante] li pilin ike a
 tenpo mute la ona li utala ala  
 taso ona li pali  
 utala li pini ala  
+
+---
+
+[ni li tan lipu te ma suno to](/ma-suno)  
