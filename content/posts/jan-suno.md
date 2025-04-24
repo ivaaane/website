@@ -1,6 +1,6 @@
 ---
 title: jan suno
-date: 2025-04-23
+date: 2025-04-24
 tags: ["lipu te ma suno to"]
 ---
 
