@@ -34,4 +34,4 @@ zz *mi pali lon tenpo kama*
 
 ## toki mun
 
-zz *mi pali lon tenpo kama*
+* [jan suno](/jan-suno)
