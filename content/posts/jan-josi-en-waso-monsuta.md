@@ -1,7 +1,7 @@
 ---
 title: jan [jo olin suli ijo] en waso monsuta
 date: 2025-04-23
-tags: ["toki pi (tenpo pini)"]
+series: "musi pi (toki ante)"
 slug: jan Josi en waso monsuta
 ---
 
@@ -32,3 +32,4 @@ zz li mama e kasi suwi loje tan ma
 jan [jo olin suli ijo] li jo e kasi  
 zz li pana e ona tawa meli  
 kulupu li pini pilin monsuta  
+zz li pilin pona

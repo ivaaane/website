@@ -1,7 +1,7 @@
 ---
 title: o lukin e kala
 date: 2025-02-16
-tags: ["kalama musi pi (toki ante)"]
+series: "kalama musi pi (toki ante)"
 ---
 
 o lukin e kala  

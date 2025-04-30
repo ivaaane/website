@@ -1,7 +1,7 @@
 ---
 title: kalama pi(kulupu [e laso olin pan akesi])
 date: 2025-03-22
-tags: ["kalama musi pi (toki ante)"]
+series: "kalama musi pi (toki ante)"
 slug: kalama pi kulupu Elopa
 ---
 

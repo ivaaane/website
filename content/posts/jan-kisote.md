@@ -1,7 +1,7 @@
 ---
 title: jan [ken ijo sama o tan e] pi (ma [moli alasa ni sona alasa])
 date: 2025-04-23
-tags: ["musi pi (toki ante)"]
+series: "jan [ken ijo sama o tan e]"
 slug: jan Kisote pi ma Mansa
 ---
 

@@ -1,5 +1,4 @@
 name: Deploy to Neocities
-
 on:
   push:
     branches:

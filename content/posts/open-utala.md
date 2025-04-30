@@ -1,7 +1,7 @@
 ---
 title: open utala
 date: 2025-04-15
-tags: ["lipu te ma suno to"]
+series: "ma suno"
 ---
 
 open la jan li pali e kulupu utala  

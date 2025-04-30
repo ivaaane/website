@@ -1,7 +1,7 @@
 ---
 title: kalama [suwi ale kalama ijo jan ale pona e]
 date: 2025-02-15
-tags: ["kalama musi pi (toki ante)"]
+series: "kalama musi pi (toki ante)"
 slug: kalama Sakijape
 ---
 

@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 <h1 class="heading">
-    soko [soko ilo jelo esun nasa ilo]&nbsp;
+    soko [soko ilo jasima esun nasa ilo]&nbsp;
     <div class="links">
         <a href="https://github.com/ivaaane"><img src="media/github.svg" class="icon" alt="Github"></a>
         <a href="discord"><img src="media/discord.svg" class="icon" alt="Discord"></a>
@@ -16,14 +16,8 @@
 {{ range (where .Site.RegularPages "Type" "posts" ) }}
 <ol>
     <div class="posts">
-        <a href="{{ .Permalink }}"
-            class="post-name">
-        {{ .Title }}</a>&ensp;
-        <div class="post-tag">
-        {{ range .Params.tags }}
-            <i>{{ . }}&nbsp;</i>
-            {{ end }}
-        </div>
+        <a href="{{ .Permalink }}" class="post-name">{{ .Title }}</a>&ensp;
+        <div class="post-tag"><i>{{ .Params.series }}&nbsp;</i></div>
     </div>
     <i>{{ .Date.Format "2/1/2006" }}</i>
 </ol>

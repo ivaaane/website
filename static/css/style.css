@@ -1,5 +1,5 @@
 :root {
-    --bg: #faffff;
+    --bg: #ffffff;
     --fg: #050914;
     --gray: #0e0f2c;
     --red: #d41e3c;
@@ -132,6 +132,8 @@ pre {
 
         .post-tag {
             text-align: left;
+            font-style: italic;
+            color: var(--white);
         }
     }
 }

@@ -1,8 +1,8 @@
 ---
-title: "open ale"
+title: "open lon"
 date: 2025-03-29
-tags: ["lipu te ma suno to"]
-tabname: "open lon"
+series: "ma-suno"
+tag: "ma suno"
 ---
 
 open la ala li lon  

@@ -1,7 +1,7 @@
 ---
 title: jan suno
 date: 2025-04-24
-tags: ["lipu te ma suno to"]
+series: "lipu te ma suno to"
 ---
 
 open la sewi li kulupu e jan li suno  

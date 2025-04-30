@@ -1,7 +1,7 @@
 ---
 title: tawa pona
 date: 2025-02-14
-tags: ["kalama musi pi (toki ante)"]
+series: "kalama musi pi (toki ante)"
 ---
 
 suno ni la  

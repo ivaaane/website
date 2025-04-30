@@ -1,7 +1,7 @@
 ---
 title: open jan
 date: 2025-04-10
-tags: ["lipu te ma suno to"]
+series: "ma suno"
 ---
 
 open la jan li sama soweli li sama akesi  

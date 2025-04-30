@@ -3,7 +3,6 @@ title: ilo [sike ilo kala ona]
 tabname: ilo Siko
 ---
 
-ilo [sike ilo kala ona] la mi kepeken nimi te `@velho.sieni`to  
 mi lon kulupu pona ni3  
 
 * [ma mun](https://discord.gg/5AVHaJfKQ3)

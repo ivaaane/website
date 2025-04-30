@@ -1,7 +1,7 @@
 ---
 title: o utala
 date: 2025-04-09
-tags: ["kalama musi pi (toki ante)"]
+series: "kalama musi pi (toki ante)"
 ---
 
 ma [kili awen telo awen len awen] suli o  
