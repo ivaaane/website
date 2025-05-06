@@ -1,7 +1,7 @@
 ---
 title: jan [jo olin suli ijo] en waso monsuta
 date: 2025-04-23
-series: "musi pi (toki ante)"
+series: "musi+lili"
 slug: jan Josi en waso monsuta
 ---
 

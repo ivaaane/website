@@ -1,7 +1,7 @@
 ---
 title: "open lon"
 date: 2025-03-29
-series: "ma-suno"
+series: "ma suno"
 tag: "ma suno"
 ---
 

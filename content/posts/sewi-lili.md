@@ -1,7 +1,7 @@
 ---
 title: sewi lili
 date: 2025-04-18
-series: "musi pi (toki ante)"
+series: "musi+lili"
 ---
 
 o sona e akesi e waso  
