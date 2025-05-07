@@ -1,4 +1,4 @@
 <label>
-    <input type="radio" name="series" class="series" value="{{ . }}" checked>
+    <input type="radio" name="series" class="series" value="{{ . }}" {{ if eq . "ale" }}checked{{ end }}>
     {{ . }} zz
 </label>
