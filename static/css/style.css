@@ -103,7 +103,7 @@ pre {
     text-align: center;
 }
 
-.heading {
+#heading {
     font-size: 150%;
     display: flex;
     align-items: center;
@@ -121,7 +121,7 @@ pre {
     }
 }
 
-.posts {
+#posts {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -138,9 +138,26 @@ pre {
     }
 }
 
-.footer {
+footer {
     color: var(--white);
     text-align: center;
     font-size: 80%;
     padding-top: 1rem;
+}
+
+#selector {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+    label {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
+    
+    input {
+        margin: 0;
+        padding: 0;
+    }
 }
