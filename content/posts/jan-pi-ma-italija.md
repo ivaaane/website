@@ -3,6 +3,7 @@ title: jan pi (ma [ijo tan anpa li ijo jan anpa])
 date: 2025-05-09
 series: "kalama musi pi (toki ante)"
 slug: jan pi ma Italija
+draft: true
 ---
 
 jan mi sama pi (ma [ijo tan anpa li ijo jan anpa])  
