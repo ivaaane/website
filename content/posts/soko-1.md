@@ -2,6 +2,7 @@
 title: nanpa wan la soko li jan
 date: 2025-05-14
 series: "jan soko"
+draft: true
 ---
 
 mi soko  
