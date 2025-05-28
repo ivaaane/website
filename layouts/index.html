@@ -1,22 +1,14 @@
 {{ partial "header.html" . }}
 
-<h1 id="heading">
-    soko [soko ilo jasima esun nasa ilo]&nbsp;
-    <div class="links">
-        <a href="https://github.com/ivaaane"><img src="media/github.svg" class="icon" alt="Github"></a>
-        <a href="discord"><img src="media/discord.svg" class="icon" alt="Discord"></a>
-        <a href="index.xml"><img src="media/rss.svg" class="icon" alt="RSS"></a>
-    </div>
-</h1>
+<h1>soko [soko ilo jasima esun nasa ilo]</h1>
 
 {{ .Content }}
 
-<hr>
+<br>
 
 <div id="selector">
     {{ partial "radio.html" "ale" }}
     {{ partial "radio.html" "ma suno" }}
-    {{ partial "radio.html" "jan soko" }}
     {{ partial "radio.html" "jan [ken ijo sama o tan e]" }}
     {{ partial "radio.html" "kalama musi pi (toki ante)" }}
     {{ partial "radio.html" "musi+lili" }}

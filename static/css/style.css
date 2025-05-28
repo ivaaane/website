@@ -1,11 +1,10 @@
 :root {
-    --bg: #ffffff;
-    --fg: #050914;
-    --gray: #0e0f2c;
-    --red: #d41e3c;
-    --yellow: #ed7b39;
-    --blue: #144491;
-    --white: #5b537d;
+    --bg: #F7F7F7;
+    --fg: #333333;
+    --gray: #4B4B4B;
+    --red: #ad2f45;
+    --blue: #6A5ACD;
+    --white: #003366;
 }
 
 @font-face {
@@ -22,7 +21,8 @@ body {
     line-height: 1.5;
     padding: 1rem;
     margin: 0 auto;
-    max-width: 45rem;
+    max-width: 40rem;
+    font-size: 110%;
 }
 
 a {
@@ -35,7 +35,7 @@ a {
 }
 
 h1, h2 {
-    color: var(--yellow);
+    color: var(--red);
 }
 
 h1 {
@@ -48,7 +48,7 @@ h3, h4, h5, h6 {
 }
 
 i, em {
-    color: var(--white);
+    color: var(--gray);
 }
 
 hr {
@@ -67,7 +67,7 @@ table {
     margin-bottom: 16px;
 
     th, td {
-        border: 1px solid var(--white);
+        border: 1px solid var(--gray);
         padding: 6px 13px;
     }
 
@@ -80,7 +80,7 @@ table {
 }
 
 blockquote {
-    border-left: 2px solid var(--white);
+    border-left: 2px solid var(--gray);
     margin: 0;
     padding: 0 10px;
 }
@@ -96,29 +96,11 @@ pre {
 }
 
 .date {
-    color: var(--white);
+    color: var(--gray);
     margin-top: -20px;
     margin-bottom: 30px;
     font-size: 90%;
     text-align: center;
-}
-
-#heading {
-    font-size: 150%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 10px;
-
-    .links {
-        display: flex;
-
-        .icon {
-            margin-left: 20px;
-            width: 25px;
-            height: auto;
-        }
-    }
 }
 
 #posts {
@@ -133,19 +115,20 @@ pre {
         .post-tag {
             text-align: left;
             font-style: italic;
-            color: var(--white);
+            color: var(--gray);
         }
     }
 }
 
 footer {
-    color: var(--white);
+    color: var(--gray);
     text-align: center;
     font-size: 80%;
     padding-top: 1rem;
 }
 
 #selector {
+    padding-left: 20px;
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
