@@ -1,10 +1,9 @@
 :root {
-    --bg: #F7F7F7;
-    --fg: #333333;
-    --gray: #4B4B4B;
-    --red: #ad2f45;
-    --blue: #6A5ACD;
-    --white: #003366;
+    --bg: #1d1f20;
+    --fg: #c8c3bc;
+    --gray: #b9b3a9;
+    --red: #d35e72;
+    --blue: #7364d0;
 }
 
 @font-face {
@@ -52,7 +51,9 @@ i, em {
 }
 
 hr {
-    border: 1px dotted var(--gray);
+    border: 0;
+    border-bottom: 3px dotted var(--gray);
+    margin: 30px;
 }
 
 ol {
@@ -125,6 +126,17 @@ footer {
     text-align: center;
     font-size: 80%;
     padding-top: 1rem;
+
+    .links {
+        display: flex;
+        justify-content: center;
+
+        .icon {
+            margin-left: 10px;
+            width: 20px;
+            height: auto;
+        }
+    }
 }
 
 #selector {

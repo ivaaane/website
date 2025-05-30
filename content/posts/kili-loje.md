@@ -9,10 +9,10 @@ poki kasi la kili li suwi li mi
 
 a lon anpa kasi  
 laso suli la  
-o pana e mi tawa lape a  
+o ken e lape tawa mi  
 a mu mu mu  
 a mu mu mu  
-o pana e mi tawa lape  
+o ken e lape tawa mi  
 
 kili loje li loje li loje li mi  
 poki kasi la kili li suwi li mi  

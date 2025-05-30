@@ -2,6 +2,7 @@
 
 <h1>{{ .Params.Title }}</h1>
 <p class="date">{{if .Date}}tenpo te {{ .Date.Format "2/1/2006"}} to{{end}} . {{if .Params.series}}kulupu te {{.Params.series}} to{{end}}</p>
+<hr>
 {{ .Content }}
 <p><a href="/">↩</a></p>
 

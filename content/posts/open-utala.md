@@ -43,7 +43,7 @@ sona li wawa
 jan mute li pilin monsuta tan jan [ante]  
 zzzz li alasa pona tawa ona  
 jan mute kin li wile moli e ona  
-jan [seme ilo ma alasa] en jan [tomo olin soweli olin] li wile wawa sama jan [ante]
+jan [seme ilo ma alasa] en jan [tomo olin soweli olin] li wile wawa sama jan [ante]  
 ona tu li kulupu e ma mute  
 utala suli li open a  
 
