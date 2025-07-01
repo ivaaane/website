@@ -7,7 +7,7 @@ series: "musi+lili"
 kulupu [kili awen telo awen len awen] li toki e sona ni  
 
 tenpo pi (pini suli a) la  
-zz lon tomo lon ma [mama o nena telo uta jan ijo] la  
+zz lon tomo lon ma [mama o nena telo uta sinpin ijo] la  
 zzzz jan sin li lon  
 jan sin mute li lili  
 zz taso jan sin ni li suli a  
@@ -47,11 +47,11 @@ jan suli li kama awen lon ma [a ma e li ijo kon a]
 tan sona ni la jan pi (kulupu [kili awen telo awen len awen]) li kalama musi e ni  
 
 te zz jan suli kasi  
-zzzz li a tawa li a tawa  
+zzzz a li tawa a li tawa  
 zzzz jan suli kasi  
-zzzz li a tawa lon nasin  
+zzzz a li tawa lon nasin  
 
 zzzz jan suli tomo  
-zzzz li a tawa li a tawa  
+zzzz a li tawa a li tawa  
 zzzz jan suli tomo  
-zzzz li a tawa lon ma tomo zzzz to  
+zzzz a li tawa lon sewi zz to  
